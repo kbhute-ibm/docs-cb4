@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="couchbase-introduction">
 
-	<title>Why Couchbase?</title>
+	<title>Why vCouchbase?</title>
 	<conbody>
 		<p>Today's mission-critical applications demand support for millions of interactions with
 			end-users. Traditional databases were built for thousands. Designed for consistency and
